@@ -1,0 +1,16 @@
+br/com/guilhermereisapps/businesscard/databinding/ActivityMainBinding.java
+ br.com.guilhermereisapps.businesscard.databinding.ActivityMainBinding
+br/com/guilhermereisapps/businesscard/BuildConfig.java
+ br.com.guilhermereisapps.businesscard.BuildConfig
+br/com/guilhermereisapps/businesscard/databinding/ActivityAddBusinessCardBinding.java
+ br.com.guilhermereisapps.businesscard.databinding.ActivityAddBusinessCardBinding
+br/com/guilhermereisapps/businesscard/data/BusinessCardDao_Impl.java
+ br.com.guilhermereisapps.businesscard.data.BusinessCardDao_Impl
+ br.com.guilhermereisapps.businesscard.data.BusinessCardDao_Impl$1
+ br.com.guilhermereisapps.businesscard.data.BusinessCardDao_Impl$2
+ br.com.guilhermereisapps.businesscard.data.BusinessCardDao_Impl$3
+br/com/guilhermereisapps/businesscard/databinding/ItemBusinessCardBinding.java
+ br.com.guilhermereisapps.businesscard.databinding.ItemBusinessCardBinding
+br/com/guilhermereisapps/businesscard/data/AppDatabase_Impl.java
+ br.com.guilhermereisapps.businesscard.data.AppDatabase_Impl
+ br.com.guilhermereisapps.businesscard.data.AppDatabase_Impl$1
